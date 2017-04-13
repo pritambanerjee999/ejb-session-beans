@@ -1,0 +1,10 @@
+com/baeldung/ejb/stateful/beans/EJBClient1.class
+com/baeldung/ejb/stateless/beans/EJBClient1.class
+com/baeldung/ejb/stateless/beans/ItemStatelessRemote.class
+com/baeldung/ejb/stateful/beans/EJBClient2.class
+com/baeldung/ejb/stateless/beans/EJBClient2.class
+com/baeldung/ejb/stateful/beans/ItemStatefulRemote.class
+com/baeldung/ejb/stateful/beans/ItemStateful.class
+com/baeldung/ejb/stateful/beans/StatefulEJB.class
+com/baeldung/ejb/stateless/beans/ItemStateless.class
+com/baeldung/ejb/stateless/beans/StatelessEJB.class

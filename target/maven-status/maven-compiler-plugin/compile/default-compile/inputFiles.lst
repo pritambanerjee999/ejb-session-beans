@@ -1,0 +1,10 @@
+/Users/pritambanerjee/tutorials/ejb/ejb-session-beans/src/main/java/com/baeldung/ejb/stateless/beans/EJBClient2.java
+/Users/pritambanerjee/tutorials/ejb/ejb-session-beans/src/main/java/com/baeldung/ejb/stateful/beans/ItemStatefulRemote.java
+/Users/pritambanerjee/tutorials/ejb/ejb-session-beans/src/main/java/com/baeldung/ejb/stateful/beans/EJBClient1.java
+/Users/pritambanerjee/tutorials/ejb/ejb-session-beans/src/main/java/com/baeldung/ejb/stateful/beans/EJBClient2.java
+/Users/pritambanerjee/tutorials/ejb/ejb-session-beans/src/main/java/com/baeldung/ejb/stateless/beans/EJBClient1.java
+/Users/pritambanerjee/tutorials/ejb/ejb-session-beans/src/main/java/com/baeldung/ejb/stateful/beans/StatefulEJB.java
+/Users/pritambanerjee/tutorials/ejb/ejb-session-beans/src/main/java/com/baeldung/ejb/stateless/beans/ItemStatelessRemote.java
+/Users/pritambanerjee/tutorials/ejb/ejb-session-beans/src/main/java/com/baeldung/ejb/stateful/beans/ItemStateful.java
+/Users/pritambanerjee/tutorials/ejb/ejb-session-beans/src/main/java/com/baeldung/ejb/stateless/beans/ItemStateless.java
+/Users/pritambanerjee/tutorials/ejb/ejb-session-beans/src/main/java/com/baeldung/ejb/stateless/beans/StatelessEJB.java
